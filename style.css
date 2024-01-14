@@ -19,13 +19,9 @@ h1 {
 }
 
 h2 {
-    font-size: x-large;
+    font-size: larger;
     font-weight: normal;
     margin-block: 0.8em;
-}
-
-p {
-    font-size: xx-large;
 }
 
 a:link, a:visited, a:active {
